@@ -1,4 +1,4 @@
 sik
 ===
 
-Sistem Informasi Sekolah
+Sistem Informasi Sekolah 2
