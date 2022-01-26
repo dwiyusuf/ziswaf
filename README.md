@@ -1,4 +1,4 @@
-sik
+ziswaf
 ===
 
-Sistem Informasi Sekolah 2
+Zakat Infak Sedekah 2
